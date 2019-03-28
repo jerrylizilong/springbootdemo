@@ -7,7 +7,7 @@
  ## 1. 使用 spring intializr 生成项目： https://start.spring.io/
 - 填写相关信息
 - 注意选择 dependency ： web
- - 点击”Generate Project“按钮生成项目，下载对应代码包
+ - 点击”Generate Project“按钮生成项目，下载对应代码包   即springboot.zip
 
  ## 2. idea 中导入项目
 
